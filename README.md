@@ -17,4 +17,6 @@ Then I started rewriting it with reference in jupyter notebook. But eventually, 
 
 I finally chose this example as a reference because it is very concise, easy to understand and logical. The whole structure is divided into five parts: parameter configuration, network construction, data loading, training and validation. Through the study and learning of this code, I also basically understand the pattern of GAN image generation.
 
+
+## Outputs
 Here are some of the outputs of my work, and I think some of them have AI drawing sheep as well as humans do. I think it's a very lovely thing to see the AI drawing the sketches.
