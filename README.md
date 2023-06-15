@@ -6,6 +6,7 @@ As you can see, the project was inspired by a science fiction novel: Do Androids
 ## Dataset and reference
 
 Dataset: https://quickdraw.withgoogle.com/data
+
 Reference: https://github.com/HuiiJi/GAN_.py/tree/main
 
 ## Working Process
