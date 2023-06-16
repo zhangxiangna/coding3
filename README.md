@@ -29,3 +29,7 @@ Epoch 71:
 Epoch 212:
 
 ![212](https://github.com/zhangxiangna/coding3/raw/main/image/212.png "212")
+
+以及非常失败的一些...
+
+![281](https://github.com/zhangxiangna/coding3/raw/main/image/281.png "281")
