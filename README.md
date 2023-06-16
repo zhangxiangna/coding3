@@ -21,4 +21,7 @@ I finally chose this example as a reference because it is very concise, easy to 
 ## Outputs
 Here are some of the outputs of my work, and I think some of them have AI drawing sheep as well as humans do. I think it's a very lovely thing to see the AI drawing the sketches.
 Epoch 71:
-![71](https://github.com/zhangxiangna/coding3/blob/main/image/71.png "71")
+![71](https://github.com/zhangxiangna/coding3/raw/main/image/71.png "71")
+
+Epoch 212:
+![212](https://github.com/zhangxiangna/coding3/raw/main/image/212.png "212")
