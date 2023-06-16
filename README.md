@@ -21,6 +21,8 @@ I finally chose this example as a reference because it is very concise, easy to 
 
 
 ## Outputs
+As of now, I have a total of 299 rounds set up for this program. Then I came up with very good results.
+
 Here are some of the outputs of my work, and I think some of them have AI drawing sheep as well as humans do. I think it's a very lovely thing to see the AI drawing the sketches.
 
 Epoch 71:
@@ -32,6 +34,6 @@ Epoch 212:
 
 ![212](https://github.com/zhangxiangna/coding3/raw/main/image/212.png "212")
 
-以及非常失败的一些...
+And some really bad...
 
 ![281](https://github.com/zhangxiangna/coding3/raw/main/image/281.png "281")
