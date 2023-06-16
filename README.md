@@ -38,5 +38,8 @@ And some really bad...
 
 ![281](https://github.com/zhangxiangna/coding3/raw/main/image/281.png "281")
 
+Finally, a motion picture demonstrating the entire process
+
+![GIF](https://github.com/zhangxiangna/coding3/blob/main/GIF.gif "GIF")
 ## Summary
 Unlike the previous attempts, I used only a single dataset for unsupervised learning this time. Instead of a dataset containing both training and testing sets. This was an interesting attempt for me. I think this approach is suitable for simple examples and rapid prototype development.In the future, I hope to improve the image quality of the generated images and perform as many rounds as possible to generate more realistic images.
